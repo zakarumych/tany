@@ -1,0 +1,9 @@
+[package]
+name = "tany"
+version = "0.1.0"
+edition = "2021"
+description = "Type-erased container with inline storage for small values"
+license = "MIT OR Apache-2.0"
+documentation = "https://docs.rs/tany"
+keywords = ["any", "inline", "tiny"]
+categories = ["rust-patterns", "data-structures"]
